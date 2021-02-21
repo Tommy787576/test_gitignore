@@ -1,0 +1,3 @@
+secret.txt
+# my first git ignore file
+*.c
